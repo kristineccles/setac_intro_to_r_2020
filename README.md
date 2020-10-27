@@ -3,7 +3,9 @@
 
 This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in chemistry, toxicology, and environmental science.
 
-## Installation requirements
+## Things to do before the workshop
+### Install R and R Studio
+#### Installation requirements
 
 This tutorial requires two things to be installed: The language R and the IDE Rstudio. The downloads can be accessed from the following websites. A variety of packages willl be used and will be instaled within the R environment using the command install.packages("packagename").
 
@@ -15,9 +17,9 @@ Note: The most current version is 4.0.2 (2020-06-22, Taking Off Again)
 
 Note: The most current version is 1.3.1073
 
-## Materials 
-
 ### Please download all files in this respository as they will be needed for the workshop
+
+#### Materials
 
 An overview of the workshop material is listed here:
 
