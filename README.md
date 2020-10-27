@@ -17,7 +17,7 @@ Note: The most current version is 4.0.2 (2020-06-22, Taking Off Again)
 
 Note: The most current version is 1.3.1073
 
-### Please download all files in this respository as they will be needed for the workshop
+### Download all files in this respository 
 
 #### Materials
 
