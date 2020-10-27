@@ -1,5 +1,5 @@
 # SETAC Short Course Nov 15th, 2020
-#Introduction to R
+# Introduction to R
 
 This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in chemistry, toxicology, and environmental science.
 
