@@ -1,13 +1,13 @@
 # SETAC Short Course Nov 15th, 2020
 # Introduction to R
 
-This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in chemistry, toxicology, and environmental science.
+This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is geared towards people with an interest/ background in chemistry, toxicology, and environmental science.
 
 ## Things to do before the workshop
 ### Install R and R Studio
 #### Installation requirements
 
-This tutorial requires two things to be installed: The language R and the IDE Rstudio. The downloads can be accessed from the following websites. A variety of packages willl be used and will be instaled within the R environment using the command install.packages("packagename").
+This tutorial requires two things to be installed: The language R and the IDE Rstudio. The downloads can be accessed from the following websites. A variety of packages willl be used and will be installed within the R environment using the command install.packages("packagename").
 
 1. Install R from https://cran.rstudio.com/
  
@@ -17,7 +17,7 @@ Note: The most current version is 4.0.2 (2020-06-22, Taking Off Again)
 
 Note: The most current version is 1.3.1073
 
-### Download all files in this respository 
+### Download all files in this repository 
 
 #### Materials
 
